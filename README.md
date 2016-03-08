@@ -7,4 +7,5 @@ Download the .safariextz and double click it, it will prompt you that it's not f
 
 ## Chrome
 Drage the .crx on to the chrome://extensions page to install, it will prompt you if you want to add the extension
+
 ![prompt](chrome.png)
