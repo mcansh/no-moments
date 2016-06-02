@@ -1,3 +1,7 @@
 li.moments.js-moments-tab,
 li#global-nav-moments.moments {
   display: none !important; }
+
+#doc .promoted-tweet {
+    display: none !important;
+}

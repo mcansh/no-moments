@@ -1,6 +1,6 @@
 .sass-cache/
 *.css.map
 config.codekit
-/min
-fuck-moments.sass
+codekit3.config
 no-twitter-moments.pem
+*.safariextz
